@@ -130,8 +130,8 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 
 
 - **Sprint Retrospective:**
- -Son sprint olduğu için genel değerlendirme yapılıp artılarımız eksilerimiz konuşulmuştur.
-  - Furkan Şakar arkadaşımıza ulaşılamamıştır.
+-Son sprint olduğu için genel değerlendirme yapılıp artılarımız eksilerimiz konuşulmuştur
+- Furkan Şakar arkadaşımıza ulaşılamamıştır.
 
 
 ---
