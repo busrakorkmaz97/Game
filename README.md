@@ -104,6 +104,38 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 
 
 ---
+## Product Backlog URL
+
+[Unıty u-141 Team Sprint 3 Backlog Board](https://oyunuygulama.atlassian.net/jira/software/projects/O3/boards/6)
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: Sprint 3 için 130 puanlık madde girilmiştir. 30 puanlık maddeler cancel edilmiştir.
+
+- **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 3 Daily Scrum Chats](https://github.com/users/busrakorkmaz97/projects/2/views/1?pane=issue&itemId=33365042)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog ](https://user-images.githubusercontent.com/136268715/253768020-bf42b2b7-83a1-4132-bc84-76984fb5447c.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://user-images.githubusercontent.com/136268715/253768154-17789111-2df9-40ec-a711-1c52b8cff22e.png)
+  ![Screenshot 2](https://user-images.githubusercontent.com/136268715/253768177-3376399d-47f8-4a5c-b738-562756ac4e63.png)
+  ![Screenshot 3](https://user-images.githubusercontent.com/136268715/253768217-d76e4cba-509a-481a-9819-8a9298454bf8.png)
+
+- **Sprint Review**: 
+- Alınan kararlar: Karaktere can sınırı getirilmiştir.
+- Oyun içi puanlama düşüncesi iptal edilmiştir.
+- Oyun ayar tasarımı iptal edilmiştir.
+- Mağaza tasarımı iptal edilmiştir.
+
+
+- **Sprint Retrospective:**
+ -Son sprint olduğu için genel değerlendirme yapılıp artılarımız eksilerimiz konuşulmuştur.
+  - Furkan Şakar arkadaşımıza ulaşılamamıştır.
+
+
+---
+
 
 
 
