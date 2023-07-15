@@ -109,7 +109,7 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 [Unıty u-141 Team Sprint 3 Backlog Board](https://oyunuygulama.atlassian.net/jira/software/projects/O3/boards/6)
 # Sprint 3
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: Sprint 3 için 130 puanlık madde girilmiştir. 30 puanlık maddeler cancel edilmiştir.
+- **Sprint içinde tamamlanması tahmin edilen puan**: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. 3 sprint şeklinde bölünmüştür. 2.Sprintimize 130 puan üzerinden puanlama yapılmıştır.30 puanlık maddeler cancel edilmiştir.
 
 - **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 3 Daily Scrum Chats](https://github.com/users/busrakorkmaz97/projects/2/views/1?pane=issue&itemId=33365042)
 
